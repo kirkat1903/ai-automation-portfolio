@@ -1,0 +1,5 @@
+.env
+data/*.sqlite3
+data/outbox/
+data/images/
+*.session

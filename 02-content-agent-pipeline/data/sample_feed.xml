@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Тестовая лента (пример для --dry-run)</title>
+<item><title>Тренд сезона: тёплый минимализм в небольших квартирах</title>
+<link>https://example.com/news/warm-minimalism</link>
+<description>&lt;p&gt;Тестовый материал: дизайнеры отмечают интерес к натуральному дереву, мягкому свету и встроенному хранению в квартирах до 50 м².&lt;/p&gt;</description></item>
+<item><title>Как зонировать кухню-гостиную без перегородок</title>
+<link>https://example.com/news/kitchen-zoning</link>
+<description>Тестовый материал: свет, ковры, разный уровень пола и остров как способы разделить зоны.</description></item>
+<item><title>Акустика в спальне: что работает на самом деле</title>
+<link>https://example.com/news/bedroom-acoustics</link>
+<description>Тестовый материал: текстиль, книжные стеллажи и уплотнение дверей против шума.</description></item>
+</channel></rss>
