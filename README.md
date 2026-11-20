@@ -24,6 +24,10 @@ cd ../03-ad-creative-factory && pip install -r requirements.txt && python banner
 - Что проверено, а что нет, написано прямо: Revit-скрипт написан по документации и не запускался в Revit;
   данные рекламной кампании — синтетические.
 
+## QA-портфолио
+
+Отдельный раздел с чек-листами, тест-кейсами, статическим анализом, Postman-коллекцией и SQL-проверками: [открыть QA-портфолио](qa-portfolio/README.md).
+
 ## Контакты
 
 - GitHub: [kirkat1903](https://github.com/kirkat1903)
